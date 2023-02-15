@@ -2,13 +2,11 @@ public class DeclaracionesOperadores {
 
     public static void main(String[] args) {
 
-        int a=5;
+        double a =0;
+        
+        System.out.println(Math.cos(a));
+   
 
-        int b;
-
-        b=7;
-
-        int c=b+a;
     }
 
 }
