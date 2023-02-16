@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c545b625-5c90-4b8c-b238-a8e22de24a05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalculosConMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntradaEjemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntradaEjemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntradaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManipulaCadenas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManipulaCadenas2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeclaracionesOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeclaracionesOperadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,52 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.EntradaNumeros">
+    <configuration name="EntradaEjemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaEjemplo1" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntradaEjemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaEjemplo2" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntradaNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaNumeros" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulaCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManipulaCadenas" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulaCadenas2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManipulaCadenas2" />
+      <module name="PrimerosPasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EntradaNumeros" />
+        <item itemvalue="Application.EntradaEjemplo2" />
+        <item itemvalue="Application.EntradaEjemplo1" />
+        <item itemvalue="Application.ManipulaCadenas2" />
+        <item itemvalue="Application.ManipulaCadenas" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
