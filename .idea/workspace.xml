@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c545b625-5c90-4b8c-b238-a8e22de24a05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AccesoAplicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Areas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvaluaEdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdivinaNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PesoIdeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsoBucleFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,37 +40,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AccesoAplicacion">
-    <configuration name="AccesoAplicacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccesoAplicacion" />
+  <component name="RunManager" selected="Application.UsoArrays">
+    <configuration name="AdivinaNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdivinaNumero" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Areas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Areas" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntradaEjemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EntradaEjemplo2" />
+    <configuration name="PesoIdeal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PesoIdeal" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntradaNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EntradaNumeros" />
+    <configuration name="UsoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsoArrays" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvaluaEdad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvaluaEdad" />
+    <configuration name="UsoBucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsoBucleFor" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AccesoAplicacion" />
-        <item itemvalue="Application.Areas" />
-        <item itemvalue="Application.EvaluaEdad" />
-        <item itemvalue="Application.EntradaNumeros" />
-        <item itemvalue="Application.EntradaEjemplo2" />
+        <item itemvalue="Application.UsoArrays" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.UsoBucleFor" />
+        <item itemvalue="Application.PesoIdeal" />
+        <item itemvalue="Application.AdivinaNumero" />
       </list>
     </recent_temporary>
   </component>
