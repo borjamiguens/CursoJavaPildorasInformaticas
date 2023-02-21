@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c545b625-5c90-4b8c-b238-a8e22de24a05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AdivinaNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PesoIdeal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoBucleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysBidimensionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysBidimensionalesForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArray2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsoArraysII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsoArraysIIbis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,37 +40,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UsoArrays">
-    <configuration name="AdivinaNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdivinaNumero" />
+  <component name="RunManager" selected="Application.EjemploArray2D">
+    <configuration name="ArraysBidimensionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysBidimensionales" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
+    <configuration name="ArraysBidimensionalesForeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysBidimensionalesForeach" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PesoIdeal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PesoIdeal" />
+    <configuration name="EjemploArray2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArray2D" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsoArrays" />
+    <configuration name="UsoArraysII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsoArraysII" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsoBucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsoBucleFor" />
+    <configuration name="UsoArraysIIbis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsoArraysIIbis" />
       <module name="PrimerosPasos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UsoArrays" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.UsoBucleFor" />
-        <item itemvalue="Application.PesoIdeal" />
-        <item itemvalue="Application.AdivinaNumero" />
+        <item itemvalue="Application.EjemploArray2D" />
+        <item itemvalue="Application.ArraysBidimensionalesForeach" />
+        <item itemvalue="Application.ArraysBidimensionales" />
+        <item itemvalue="Application.UsoArraysIIbis" />
+        <item itemvalue="Application.UsoArraysII" />
       </list>
     </recent_temporary>
   </component>
