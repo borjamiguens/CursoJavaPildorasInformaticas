@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c545b625-5c90-4b8c-b238-a8e22de24a05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArraysBidimensionales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysBidimensionalesForeach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploArray2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoArraysII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoArraysIIbis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/UsoCoche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EjemploArray2D">
+  <component name="RunManager" selected="Application.UsoCoche">
     <configuration name="ArraysBidimensionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysBidimensionales" />
       <module name="PrimerosPasos" />
@@ -62,13 +59,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsoArraysII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsoArraysII" />
-      <module name="PrimerosPasos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UsoArraysIIbis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UsoArraysIIbis" />
       <module name="PrimerosPasos" />
@@ -76,13 +66,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UsoCoche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.UsoCoche" />
+      <module name="PrimerosPasos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsoCoche" />
         <item itemvalue="Application.EjemploArray2D" />
         <item itemvalue="Application.ArraysBidimensionalesForeach" />
         <item itemvalue="Application.ArraysBidimensionales" />
         <item itemvalue="Application.UsoArraysIIbis" />
-        <item itemvalue="Application.UsoArraysII" />
       </list>
     </recent_temporary>
   </component>
