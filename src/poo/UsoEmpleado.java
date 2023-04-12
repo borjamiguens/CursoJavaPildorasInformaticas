@@ -51,15 +51,15 @@ class Empleado{
 
     public String dameNombre(){//getter
         return nombre;
-    }
+    }//getter
 
     public double dameSueldo(){//getter
         return sueldo;
-    }
+    }//getter
 
     public Date dameFechaContrato(){//getter
         return altaContrato;
-    }
+    }//getter 
 
     public void subeSueldo(double porcentaje){//setter
         double aumento=sueldo*porcentaje/100;
