@@ -18,15 +18,15 @@ public class Coche {
         ruedas=4;
         largo=2000;
         ancho=300;
-        pesoPlataforma=500;
         motor=1600;
+        pesoPlataforma=500;
     }
 
     public String dimeDatosGenerales(){//GETTER
 
         return "La plataforma del vehículo tiene " + ruedas + " ruedas." +
                 " Mide " + largo/1000 + " metros con un ancho de " + ancho +
-                " cm y un peso de plataforma de " + pesoPlataforma + "kg";
+                " cm y un peso de plataforma de " + pesoPlataforma + "kg " + dimeColor();
     }
 
     public void estableceColor(String colorCoche){//SETTER
